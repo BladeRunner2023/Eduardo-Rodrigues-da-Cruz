@@ -1,8 +1,4 @@
 # Eduardo-Rodrigues-da-Cruz
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">I'm embarking on a Tech Odyssey: Welcome to My Journey</h3>
-
-- 🌱 I’m currently learning **SwiftUI and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
